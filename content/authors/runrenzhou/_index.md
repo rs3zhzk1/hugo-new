@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include eating and playing with Xiaomi.
+bio: My research interests include eating orange and playing with Xiaomi.
 
 interests:
 - Artificial Intelligence
