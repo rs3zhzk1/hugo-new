@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: red mimi on the earth
 
 # View.
 #   1 = List
