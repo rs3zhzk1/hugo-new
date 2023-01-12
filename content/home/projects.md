@@ -22,8 +22,12 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "cute kitty"
+    name = "All"
     tag = "*"
+
+  [[content.filter_button]]
+    name = "cute kitty"
+    tag = "cute kitty"
     
   [[content.filter_button]]
     name = "Deep Learning"
@@ -43,7 +47,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 1
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
