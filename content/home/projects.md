@@ -22,8 +22,9 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+    name = "jumi"
+    tag = "*"
+    summary = "miaomiaomiao"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
