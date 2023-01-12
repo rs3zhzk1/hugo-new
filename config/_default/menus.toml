@@ -8,6 +8,28 @@
   url = "#about"
   weight = 10
 
+[[main]]  
+name = "Research"
+url = "research"
+weight = 70
+
+[[main]]  
+name = "Publication"
+url = "publication"
+weight = 70
+
+
+[[main]]
+  name = "Contact"
+  url = "contact"
+  weight = 60
+
+
+[[main]]  
+name = "CV"
+url = "files/CV_Runren_Zhou.pdf"
+weight = 70
+
 # [[main]]
 #   name = "Posts"
 #   url = "#posts"
@@ -23,10 +45,7 @@
 #   url = "#featured"
 #   weight = 40
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
