@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "地球的红色咪咪为什么能够存在"
+  caption: "red mimi on the earth"
   image: ""
 ---
