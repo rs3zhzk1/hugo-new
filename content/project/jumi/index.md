@@ -1,12 +1,11 @@
 ---
 title: Jumi
-summary: Global spread and evolution of the plague bacterium, Yersinia pestis.
+summary: Orange Orange Orange
 tags:
-  - Genomics
-  - Database
-  - Plague
-date: "2020-06-04"
+  - cute kitty
+  - Deep Learning
+date: "2020-02-01"
 
-# Optional external URL for project (replaces project detail page).
-external_link: https://ktmeaton.github.io/plague-phylogeography/
+Jumi can eat 10+ oranges every day.
+
 ---

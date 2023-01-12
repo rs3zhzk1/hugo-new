@@ -33,8 +33,6 @@ subtitle = ""
     name = "Other"
     tag = "Demo"
   
-  
-
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -45,7 +43,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
