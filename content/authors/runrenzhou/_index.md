@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Runren Zhou is a professor of Miaomiao at the Miaomiao AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi there! My name is Runren Zhou, and I am a pre-doctoral research fellow of the Energy Policy Institute at the University of Chicago (EPIC-China). I have a keen interest in labor economics, political economy, and economic history.
+Currently, my research involves the impact of sparrow killing on ecology and demography together with social mobility of Jinshi scholars during the Ming and Qing dynasties.
+I am also engaged in several personal projects, focusing on the population mobility of ethnic minorities in China and the relationship between central and local governments through text analysis.
