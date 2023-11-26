@@ -31,7 +31,7 @@ education:
     institution: London School of Economics and Political Science
     year: 2022
   - course: Bachelor of Arts in Economics
-    institution: Peking Universmasity
+    institution: Peking University
     year: 2021
 
 # Social/Academic Networking
