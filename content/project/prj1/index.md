@@ -6,5 +6,5 @@ tags:
 date: "2023-11-01"
 ---
 
-Jumi can eat 10+ oranges every day.
+TBC
 
