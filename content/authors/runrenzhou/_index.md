@@ -18,7 +18,7 @@ organizations:
   url: "https://epic.uchicago.cn/team/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Actively looking for PhD
+bio: Actively seeking opportunities in Econ PhD programs!
 
 interests:
 - Labor Economics
