@@ -71,5 +71,4 @@ user_groups:
 ---
 
 Hi there! My name is Runren Zhou, and I am a pre-doctoral research fellow of the Energy Policy Institute at the University of Chicago (EPIC-China). I have a keen interest in labor economics, political economy, and economic history. 
-
 Currently, I'm engaging in several research projects, involving the impact of sparrow killing on ecology and demography, social mobility of Jinshi scholars during the Ming and Qing dynasties and a forthcoming RCT about land merge in China. I've also completed some personal research projects which are listed below.
