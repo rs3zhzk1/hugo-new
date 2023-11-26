@@ -4,7 +4,7 @@ summary: This study builds a model to depict the labor market which makes a dist
 tags:
   - cute kitty
   - Deep Learning
-date: "2020-02-01"
+date: "2023-02-01"
 ---
 
 Jumi can eat 10+ oranges every day.
