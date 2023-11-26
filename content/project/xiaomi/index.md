@@ -1,6 +1,6 @@
 ---
-title: 'When Labor Supply is not Self-determined: A New Perspective to Understand the Determinant of Wage and Overtime Work'
-summary: This study builds a model to depict the labor market which makes a distinction between number of workers and working hours. In this context, supply of the number of workers is inelastic and each firm will propose a bundle composed of wage rate and working hours to attract laborers. The equilibrium is achieved by the competition about the utility reflected by the bundles among firms. The results demonstrate that such a market structure will reveal the actual determinants of wage and working hours, reversing the impacts of labor demand side shock and firm's productivity. 
+title: "Text Similarity of Work Reports of China's Central-local Governments"
+summary: "Using two corpora, work reports of China's central and local governments from 2002 to 2018, this project studies the change of their similarity over the years together with the details of the convergent content. The results demonstrate that the change of central-local similarity before 2013 is relatively flat and ambiguous while there has been a steep increase since 2013. Also, the percent of ideological content is stable before 2012 but has begun to soar since 2013."
 tags:
   - cute kitty
   - Deep Learning
