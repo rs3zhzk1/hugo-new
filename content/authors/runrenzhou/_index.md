@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Miaomiaomiao
+role: Pre-doctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Miaomiao University
-  url: ""
+- name: Energy Policy Institute at the University of Chicago
+  url: "https://epic.uchicago.cn/team/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include eating orange and playing with Xiaomi.
+bio: Actively looking for PhD
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Labor Economics
+- Political Economy
+- Economic History
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master of Science in EME
+    institution: London School of Economics and Political Science
+    year: 2022
+  - course: Bachelor of Arts in Economics
+    institution: Peking Universmasity
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -26,12 +26,12 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "cute kitty"
-    tag = "cute kitty"
+    name = "Labor"
+    tag = "Labor"
     
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "PE"
+    tag = "PE"
   
   [[content.filter_button]]
     name = "Other"
