@@ -11,3 +11,5 @@ Using the 20% subsample from 2005 National 1% Population Sampling Survey, this p
 Possible explanations are: 1.the living pattern increases the closedness of ethnic groups; 2.the living pattern reflects the in complete integration of ethnic regions by Central Plain Dynasty in history, an effect that still exists today.  
 
 The study also finds that lower proficiency in Mandarin leads to less population movement, and ethnic compact communities would influence local language in education and religious forces, thus affecting people’s choice of migration. 
+
+The complete manuscript of the paper is available at the this [link.](./file/Minority.pdf)
