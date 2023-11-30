@@ -12,4 +12,4 @@ The results demonstrate that under such a market structure, the positive shock o
 
 What's more, this study points out that overtime can be utilized by firms to achieve a more flexible adjustment of labor input with lower cost. However, the impacts on employees' welfare deserve further research.  
 
-Click [here](files/Resume.pdf) for the manuscript. 
+The complete manuscript of the paper is available at the this [link.](./file/Non_self_determined_Labor.pdf)
