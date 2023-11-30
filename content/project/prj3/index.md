@@ -12,4 +12,4 @@ Possible explanations are: 1.the living pattern increases the closedness of ethn
 
 The study also finds that lower proficiency in Mandarin leads to less population movement, and ethnic compact communities would influence local language in education and religious forces, thus affecting people’s choice of migration. 
 
-The complete manuscript of the paper is available at the this [link.](./file/Minority.pdf)
+The complete manuscript of the paper is available at this [link.](./file/Minority.pdf)
